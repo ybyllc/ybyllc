@@ -1,0 +1,35 @@
+// == Overview
+// image::https://github-profile-trophy.vercel.app/?username=ybyllc-chan&theme=nord&row=1[trophy]
+
+image::https://github-readme-stats.vercel.app/api/top-langs/?username=ybyllc-chan&layout=compact&hide=html&theme=vue-dark&card_width=304[lang_stats]
+
+image::https://github-readme-stats.vercel.app/api?username=ybyllc-chan&show_icons=true&theme=vue-dark&hide_rank=true[stats]
+
+// == Badges
+// === Tech
+image:https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=rust[rust]
+image:https://img.shields.io/badge/-Go-black?style=flat-square&logo=go[go]
+image:https://img.shields.io/badge/-AsciiDoc-d22d4a?style=flat-square&logo=asciidoctor[adoc]
+image:https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=arch-linux[arch]
+image:https://img.shields.io/badge/-Tails-56347c?style=flat-square&logo=tails[tails]
+image:https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white[pytorch]
+image:https://img.shields.io/badge/-VSCodium-007acc?style=flat-square&logo=vscodium&logoColor=white[vsc]
+image:https://img.shields.io/badge/-Monero-242021?style=flat-square&logo=monero[XMR]
+
+// === Social
+image:https://img.shields.io/badge/-Bluesky-0285ff?style=flat-square&logo=Bluesky&logoColor=white[bluesky,link=https://bsky.app/profile/ybyllc.bsky.social]
+image:https://img.shields.io/twitter/url?label=X&url=https%3A%2F%2Ftwitter.com%2Fybyllc[twitter,link=https://twitter.com/ybyllc]
+image:https://img.shields.io/badge/-Fediverse-8c2394?style=flat-square&logo=Mastodon&logoColor=white[fediverse,link=https://fedibird.com/@ybyllc]
+image:https://img.shields.io/badge/-VRChat-000000?style=flat-square&logo=VRChat&logoColor=white[vrchat,link=https://vrchat.com/home/user/usr_0e587442-01ce-401a-b816-37ecc4e2fc1f]
+// image:https://img.shields.io/badge/PGP-B9942CBBE0A4CAE13F0473C00534B6F897D268E7-blue?style=flat-square[pgp,link=https://keybase.io/ekyu/pgp_keys.asc?fingerprint=b9942cbbe0a4cae13f0473c00534b6f897d268e7]
+
+// == Misc
+.─────────────────────────────────────────
+[%collapsible]
+====
+image:https://www.steamidfinder.com/signature/76561198285816702.png[steam,link=https://steamcommunity.com/id/ybyllc/]
+
+image:https://anime.plus/ybyllc-chan/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCIwMDAwNDQwMCIsIjAwMDA4ODAwIiwiMDAwMDAwMDAiLCIyMDQ0ZmY0NCIsIjAwMDA4ODAwIiwiMDAzM2FhMzMiLCIwMDMzYWEzMyJd/1658832676?c[MAL,link=https://myanimelist.net/profile/ybyllc-chan]
+
+image:https://spotify-github-profile.kittinanx.com/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false[spotify,link=https://spotify-github-profile.kittinanx.com/api/view?uid=hxrzoklmlr3woorawwgfvfhsi&redirect=true]
+====
