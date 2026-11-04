@@ -1,7 +1,7 @@
 // == Overview
 //image::https://github-profile-trophy.vercel.app/?username=ybyllc&theme=nord&row=1[trophy]
 
-image::assets/profile-timer.gif[你今天看了我几分钟：一分钟循环计时动画，从顶部顺时针增加,width=300]
+image::assets/profile-timer.svg[你今天看了我几分钟：每秒顺时针增加，满一分钟后圆圈保持，时间继续累计,width=240]
 
 image::https://github.com/images/modules/search/mona-love.png[trophy]
 
